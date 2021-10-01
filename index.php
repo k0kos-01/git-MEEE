@@ -8,5 +8,6 @@
 </head>
 <body>
     <p>こんばんは！MEEE（宮崎）です</p>
+    <p>Minoがいたずらしました</p>
 </body>
 </html>
